@@ -11,7 +11,7 @@
 
 🚀 **Getting Started**
   1. Clone the repo :- 
-     git clone https://github.com/your-username/Music_school.git
+     git clone https://github.com/CoderRazique/Music_school.git
   
   2. Install dependencies :- 
      npm install
