@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Basics",
+      "slug": "piano-basics",
+      "description": "A complete introduction to piano, covering essential techniques and music theory.",
+      "price": 89.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Drumming",
+      "slug": "advanced-drumming",
+      "description": "Master advanced drumming techniques and rhythms in this course for experienced drummers.",
+      "price": 119.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "/courses/drumming.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Violin Essentials",
+      "slug": "violin-essentials",
+      "description": "A foundational course in violin techniques, perfect for those starting their musical journey.",
+      "price": 79.99,
+      "instructor": "Sarah Lee",
+      "isFeatured": true,
+      "image": "/courses/violin.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Music Production",
+      "slug": "music-production",
+      "description": "Learn the art of music production, from sound design to mixing and mastering tracks.",
+      "price": 149.99,
+      "instructor": "Alex Kumar",
+      "isFeatured": true,
+      "image": "/courses/music-production.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Singing Techniques",
+      "slug": "singing-techniques",
+      "description": "Enhance your vocal skills with techniques used by professional singers around the world.",
+      "price": 109.99,
+      "instructor": "Emily White",
+      "isFeatured": true,
+      "image": "/courses/singing.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Bass Guitar Basics",
+      "slug": "bass-guitar-basics",
+      "description": "Learn the essentials of bass guitar playing, from notes to rhythms.",
+      "price": 95.99,
+      "instructor": "Chris Black",
+      "isFeatured": true,
+      "image": "/courses/bass-guitar.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create and produce electronic music with industry-standard software and techniques.",
+      "price": 139.99,
+      "instructor": "Dylan Harper",
+      "isFeatured": true,
+      "image": "/courses/electronic-music.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Classical Guitar Techniques",
+      "slug": "classical-guitar-techniques",
+      "description": "A course on classical guitar techniques, covering fingerstyle and musical expression.",
+      "price": 99.99,
+      "instructor": "Anna Brown",
+      "isFeatured": true,
+      "image": "/courses/classical-guitar.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Percussion Fundamentals",
+      "slug": "percussion-fundamentals",
+      "description": "An introduction to percussion instruments and basic rhythms for beginners.",
+      "price": 89.99,
+      "instructor": "Liam Fox",
+      "isFeatured": true,
+      "image": "/courses/percussion.jpg"
+    }
+  ]
+}
