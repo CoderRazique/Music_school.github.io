@@ -7,7 +7,7 @@
   JavaScript/TypeScript
 
 📚 **Notes** 
-  Working on this app was a great experience, allowing me to learn new plugins and enhance my skills in Next.js and UI design.
+  * Working on this app was a great experience, allowing me to learn new plugins and enhance my skills in Next.js and UI design.
 
 🚀 **Getting Started**
   1. Clone the repo :- 
