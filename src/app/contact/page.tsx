@@ -1,6 +1,5 @@
 'use client'
 import { BackgroundBeams } from "@/components/ui/background-beams";
-import Link from "next/link";
 
 export default function page() {
     return (
